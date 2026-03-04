@@ -57,10 +57,11 @@ fastapi dev fast_zero/app.py
 
 ## 🎓 Créditos
 
-Projeto desenvolvido seguindo a metodologia do **Professor Dunossauro** no curso [FastAPI do Zero](https://www.google.com/search?q=https://github.com/fastapi-do-zero).
+Projeto desenvolvido seguindo a metodologia do **Professor Dunossauro** no curso [FastAPI do Zero](https://github.com/dunossauro/fastapi-do-zero).
 
 Um agradecimento especial ao mestre Eduardo Mendes pela excelente didática e por fortalecer a comunidade Python no Brasil.
 
 ---
 
 Desenvolvido por **Matheus** – [Meu LinkedIn](https://www.linkedin.com/in/matheus-goveia)
+
