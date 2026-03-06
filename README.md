@@ -28,7 +28,7 @@ Neste repositório, apliquei conceitos essenciais para o mercado:
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/NOME-DO-REPO.git
+git clone https://github.com/Mateuus-Goveia/fastapi_zero.git
 ```
 
 ### 2. Instale as dependências (recomendado usar `poetry` ou `pip`)
@@ -37,19 +37,13 @@ git clone https://github.com/seu-usuario/NOME-DO-REPO.git
 pip install -r requirements.txt
 ```
 
-### 3. Execute as migrações do banco
-
-```bash
-alembic upgrade head
-```
-
-### 4. Inicie o servidor
+### 3. Inicie o servidor
 
 ```bash
 fastapi dev fast_zero/app.py
 ```
 
-### 5. Acesse a documentação interativa
+### 4. Acesse a documentação interativa
 
 * [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
 
